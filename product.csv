@@ -1,0 +1,141 @@
+id,name,category,price,rating
+1,iPhone 14,Smartphone,24849,4.1
+2,iPhone 14,Smartphone,50176,4.5
+3,iPhone 14,Smartphone,31976,4.3
+4,Boat Rockerz 550,Headphones,8410,3.8
+5,Boat Rockerz 550,Headphones,27652,4.9
+6,Asus ROG Strix,Laptop,37323,4.9
+7,OnePlus Nord 2T,Smartphone,66956,4.1
+8,Boat Rockerz 550,Headphones,33520,4.8
+9,Noise Air Buds,Earbuds,27953,3.9
+10,Dell XPS 13,Laptop,79053,4.6
+11,Realme GT,Smartphone,43949,4.9
+12,Acer Aspire 5,Laptop,58944,3.8
+13,Asus ROG Strix,Laptop,72138,4.4
+14,Lenovo IdeaPad,Laptop,62322,4.6
+15,Samsung Galaxy Buds2,Earbuds,72233,4.7
+16,Sennheiser HD 450BT,Headphones,74135,5
+17,Lenovo IdeaPad,Laptop,7214,5
+18,Asus ROG Strix,Laptop,34882,4.2
+19,Boat Rockerz 550,Headphones,27843,3.8
+20,Boat Airdopes 441,Earbuds,42862,4.7
+21,JBL Quantum 800,Headphones,79242,4.4
+22,Bose QuietComfort 45,Headphones,15877,4.4
+23,Boat Airdopes 441,Earbuds,70609,4.1
+24,HP Spectre x360,Laptop,77419,4
+25,Bose QuietComfort 45,Headphones,72228,4.6
+26,Boat Airdopes 441,Earbuds,70643,4.3
+27,Realme GT,Smartphone,7315,4.6
+28,Sony WH-CH710N,Headphones,33230,5
+29,Asus ROG Strix,Laptop,55492,4.5
+30,Oppo Enco X,Earbuds,24250,4.7
+31,Dell XPS 13,Laptop,63093,4.5
+32,iPhone 14,Smartphone,17480,4.4
+33,JBL Quantum 800,Headphones,19080,5
+34,Samsung Galaxy S21,Smartphone,66181,4.2
+35,HP Spectre x360,Laptop,59978,3.6
+36,Acer Aspire 5,Laptop,25937,4.3
+37,iPhone 14,Smartphone,10814,4
+38,Samsung Galaxy S21,Smartphone,8910,3.7
+39,Realme Buds Q2,Earbuds,57950,4.5
+40,OnePlus Nord 2T,Smartphone,60283,4.5
+41,Redmi Note 11,Smartphone,32887,4.2
+42,Asus ROG Strix,Laptop,40346,4.9
+43,Acer Aspire 5,Laptop,49064,4.9
+44,Boat Rockerz 550,Headphones,75636,3.9
+45,OnePlus Nord 2T,Smartphone,65213,4.2
+46,Acer Aspire 5,Laptop,22750,4.2
+47,Sennheiser HD 450BT,Headphones,19412,4.7
+48,Samsung Galaxy Buds2,Earbuds,59511,4.9
+49,Samsung Galaxy Buds2,Earbuds,22120,3.6
+50,Acer Aspire 5,Laptop,77857,3.6
+51,Realme Buds Q2,Earbuds,45299,4.7
+52,Asus ROG Strix,Laptop,61796,4.3
+53,Sony WH-CH710N,Headphones,47255,3.9
+54,Redmi Note 11,Smartphone,42022,3.6
+55,Bose QuietComfort 45,Headphones,64231,3.6
+56,Oppo Enco X,Earbuds,25337,3.6
+57,Bose QuietComfort 45,Headphones,27244,3.9
+58,JBL Quantum 800,Headphones,25209,3.5
+59,Noise Air Buds,Earbuds,61113,4.2
+60,JBL Quantum 800,Headphones,12496,4.5
+61,HP Spectre x360,Laptop,3541,4.5
+62,Samsung Galaxy S21,Smartphone,30963,4.2
+63,Asus ROG Strix,Laptop,58237,4.5
+64,Samsung Galaxy Buds2,Earbuds,75537,4
+65,Boat Rockerz 550,Headphones,13498,4.8
+66,Realme GT,Smartphone,70913,3.9
+67,Sennheiser HD 450BT,Headphones,12744,3.7
+68,iPhone 14,Smartphone,41708,4.6
+69,Samsung Galaxy Buds2,Earbuds,8689,3.8
+70,Boat Rockerz 550,Headphones,25722,3.6
+71,HP Spectre x360,Laptop,40134,4
+72,iPhone 14,Smartphone,34355,4.2
+73,Samsung Galaxy Buds2,Earbuds,27734,4.1
+74,Boat Rockerz 550,Headphones,66869,3.7
+75,Asus ROG Strix,Laptop,16054,3.8
+76,Oppo Enco X,Earbuds,71499,4.4
+77,Boat Airdopes 441,Earbuds,32690,3.5
+78,Dell XPS 13,Laptop,73284,4.2
+79,Acer Aspire 5,Laptop,4202,4.5
+80,OnePlus Nord 2T,Smartphone,19443,4.4
+81,OnePlus Nord 2T,Smartphone,4467,4.7
+82,Realme Buds Q2,Earbuds,33743,4.7
+83,Samsung Galaxy S21,Smartphone,76765,4.4
+84,OnePlus Nord 2T,Smartphone,27601,3.7
+85,Acer Aspire 5,Laptop,30118,3.8
+86,Noise Air Buds,Earbuds,8462,4.4
+87,Asus ROG Strix,Laptop,24773,4.1
+88,Redmi Note 11,Smartphone,23946,3.9
+89,JBL Quantum 800,Headphones,78710,4.5
+90,Oppo Enco X,Earbuds,46769,3.6
+91,Samsung Galaxy Buds2,Earbuds,47675,4.7
+92,Bose QuietComfort 45,Headphones,16847,4
+93,Redmi Note 11,Smartphone,15879,3.8
+94,Realme Buds Q2,Earbuds,38787,4.8
+95,Asus ROG Strix,Laptop,54541,3.9
+96,Realme GT,Smartphone,9951,4.3
+97,OnePlus Nord 2T,Smartphone,33259,3.6
+98,Oppo Enco X,Earbuds,20715,3.6
+99,JBL Quantum 800,Headphones,77716,4.1
+100,Realme Buds Q2,Earbuds,17192,4.6
+101,Sennheiser HD 450BT,Headphones,26450,4
+102,Realme GT,Smartphone,56772,4.5
+103,Sennheiser HD 450BT,Headphones,5672,4.2
+104,iPhone 14,Smartphone,28331,3.7
+105,Boat Rockerz 550,Headphones,32960,4.2
+106,Dell XPS 13,Laptop,55969,3.7
+107,Sennheiser HD 450BT,Headphones,71084,3.5
+108,Lenovo IdeaPad,Laptop,21761,5
+109,iPhone 14,Smartphone,68761,4.3
+110,HP Spectre x360,Laptop,74328,5
+111,Redmi Note 11,Smartphone,68176,4.7
+112,Oppo Enco X,Earbuds,55606,4.2
+113,Noise Air Buds,Earbuds,20914,4.9
+114,iPhone 14,Smartphone,45419,4.4
+115,Samsung Galaxy Buds2,Earbuds,61073,3.8
+116,Samsung Galaxy S21,Smartphone,49787,3.9
+117,Sony WH-CH710N,Headphones,51967,4.8
+118,Samsung Galaxy S21,Smartphone,73608,4
+119,Acer Aspire 5,Laptop,44861,4.7
+120,Boat Rockerz 550,Headphones,58798,4.8
+121,Realme GT,Smartphone,73063,4.4
+122,Boat Airdopes 441,Earbuds,51579,4
+123,Realme GT,Smartphone,62101,4.9
+124,Dell XPS 13,Laptop,31389,4.8
+125,Boat Rockerz 550,Headphones,15997,4.8
+126,Realme GT,Smartphone,26092,4.6
+127,Samsung Galaxy S21,Smartphone,65546,4
+128,Redmi Note 11,Smartphone,5639,4.6
+129,Realme GT,Smartphone,36727,3.8
+130,Sennheiser HD 450BT,Headphones,77025,4.2
+131,OnePlus Nord 2T,Smartphone,14924,4.5
+132,OnePlus Nord 2T,Smartphone,31222,4.2
+133,Noise Air Buds,Earbuds,77337,4.4
+134,OnePlus Nord 2T,Smartphone,68537,4.3
+135,Asus ROG Strix,Laptop,5164,4.8
+136,Samsung Galaxy Buds2,Earbuds,15527,3.7
+137,Redmi Note 11,Smartphone,33893,4.7
+138,Asus ROG Strix,Laptop,30083,4.2
+139,Sennheiser HD 450BT,Headphones,33658,3.9
+140,Realme GT,Smartphone,35401,4.9
